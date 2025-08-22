@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Thomas 👋  
 
-<!--
-**tomaseidg/tomaseidg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cloud & DevOps Engineer** | ☁️ **AWS Certified**  
+⚙️ Passionate about Infrastructure as Code, CI/CD & Automation  
+🔐 Security-aware mindset in every deployment  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 BSc. in Management Information Systems (2021)  
+- ☁️ Exploring AWS Solutions Architecture & Cloud Best Practices  
+- 🛠️ Building projects in Cloud, Security, and Web Development  
+- 📍 Based in Cairo, Egypt  
+
+---
+
+## 🛠️ Tech Stack  
+- **Cloud:** AWS, Azure (basic), GCP (basic)  
+- **DevOps:** Docker, GitHub Actions, Terraform, Ansible  
+- **Programming:** Python, Bash, JavaScript  
+- **Other:** Linux, Networking, Security  
+
+---
+
+## 📊 GitHub Stats  
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomaseidg&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseidg&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/tomaseg)  
+- [GitHub](https://github.com/tomaseidg) 
