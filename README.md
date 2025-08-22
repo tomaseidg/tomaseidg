@@ -18,7 +18,12 @@
 - **Cloud:** AWS, Azure (basic), GCP (basic)  
 - **DevOps:** Docker, GitHub Actions, Terraform, Ansible  
 - **Programming:** Python, Bash, JavaScript  
-- **Other:** Linux, Networking, Security  
+- **Other:** Linux, Networking, Security
+  
+---
+
+## 🌐 My Portfolio Website
+Check out my portfolio: [Thomas Eid](https://thomaseg.netlify.app) 🚀  
 
 ---
 
