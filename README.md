@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 My Portfolio Website
-Check out my portfolio: [Thomas Eid](https://thomaseg.netlify.app) 🚀  
+Check out my portfolio: [Thomas's portfolio](https://thomaseg.netlify.app)
 
 ---
 
