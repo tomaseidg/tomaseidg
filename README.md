@@ -28,9 +28,10 @@ Check out my portfolio: [Thomas's portfolio](https://thomaseg.netlify.app)
 ---
 
 ## 📊 GitHub Stats  
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomaseidg&show_icons=true&theme=tokyonight)  
+| Thomas' GitHub Stats | Most Used Languages |
+| --------------------- | ------------------- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=tomaseidg&show_icons=true&theme=dark) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseidg&layout=compact&theme=dark) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseidg&layout=compact&theme=tokyonight)  
 
 ---
 
