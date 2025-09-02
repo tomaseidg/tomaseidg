@@ -28,7 +28,7 @@ Check out my portfolio: [Thomas's portfolio](https://thomaseg.netlify.app)
 ---
 
 ## 📊 GitHub Stats  
-| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseidg&layout=compact&theme=dark) |
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseidg&layout=compact&theme=dark)
 
 
 ---
